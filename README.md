@@ -1,4 +1,6 @@
 🎥 AI Voice Assistant with Video Playback
+
+
 This Python project integrates speech recognition, text-to-speech, and Generative AI to create an interactive voice assistant that listens to your voice commands, responds using Google's Gemini API, and continuously plays a looping video in a separate window.
 
 🧠 Features
